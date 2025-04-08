@@ -1,0 +1,5 @@
+¿Qué ajustes hiciste con DevTools y cómo mejoraron el diseño?
+Experimenté con colores de fondo para los botones (.btn) cambiando temporalmente su color de fondo y hover (por ejemplo, verde más brillante) para ver cómo afectaba la visibilidad y la interacción. El contraste entre el botón y el fondo hace que los botones se destaquen, lo que atrae más la atención de los usuarios.
+
+¿Cómo refleja tu diseño un enfoque comercial efectivo?
+El diseño refleja un enfoque comercial efectivo gracias a la jerarquía visual que resaltan los elementos clave como las imágenes, nombres, descripciones y precios, mientras que el botón de "Comprar Ahora" destaca con un color vibrante para facilitar la acción. La disposición limpia y el espaciado adecuado mejoran la experiencia del usuario, haciendo que la navegación sea intuitiva y agradable, lo que optimiza la conversión y fomenta la compra.
